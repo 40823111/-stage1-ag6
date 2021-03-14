@@ -19,6 +19,7 @@
 <v t="leo.20200818170041.1"><vh>reveal div</vh>
 <v t="leo.20200818170222.1"><vh>slides div</vh>
 <v t="leo.20200818170328.1"><vh>slide 1</vh></v>
+<v t="leo.20210314162536.1"><vh>Translation inspiration</vh></v>
 <v t="leo.20200818170535.1"><vh>slide 2</vh></v>
 <v t="leo.20200818170636.1"><vh>slide3</vh>
 <v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
@@ -208,7 +209,7 @@ vertical: body pane on the botton</t>
     @others
 &lt;/div&gt;</t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
-    &lt;h3&gt;Stage-1 ag6  &lt;/h3&gt;
+    &lt;h1&gt;Stage-1 ag6  &lt;/h1&gt;
     &lt;p&gt;
         &lt;small&gt;member &lt;a href="https://40823111.github.io/cd2021/content/index.html"&gt;40823111&lt;/a&gt; and &lt;a href="https://40823139.github.io/cd2021/content/index.html"&gt;40823139&lt;/a&gt;&lt;/small&gt;
     &lt;/p&gt;
@@ -239,7 +240,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200818170909.1">&lt;section&gt;
     &lt;h2&gt;week2&lt;/h2&gt;
-    &lt;p&gt;Slides can be nested inside of each other.&lt;/p&gt;
+    &lt;p&gt;設計機構  &lt;/p&gt;
     &lt;p&gt;Use the &lt;em&gt;Space&lt;/em&gt; key to navigate through all slides.&lt;/p&gt;
     &lt;br&gt;
     &lt;a href="#" class="navigate-down"&gt;
@@ -645,5 +646,20 @@ console.log( '"customevent" has fired' );
         - &lt;a href="https://github.com/hakimel/reveal.js"&gt;Source code &amp;amp; documentation&lt;/a&gt;
     &lt;/p&gt;
 &lt;/section&gt;</t>
+<t tx="leo.20210314162536.1">&lt;section&gt;
+&lt;h2&gt;Translation inspiration &lt;/h2&gt;
+
+ &lt;p&gt;
+夜市套圈圈 及 運輸機購 想做一個可以持續循環套圈圈的機器
+ &lt;p&gt;
+ 
+&lt;p&gt;&lt;img src="" alt="" width="500" height="250"&gt;&lt;/p&gt;
+
+
+
+
+
+
+&lt;section&gt;</t>
 </tnodes>
 </leo_file>
