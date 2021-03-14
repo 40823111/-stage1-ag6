@@ -19,14 +19,14 @@
 <v t="leo.20200818170041.1"><vh>reveal div</vh>
 <v t="leo.20200818170222.1"><vh>slides div</vh>
 <v t="leo.20200818170328.1"><vh>slide 1</vh></v>
-<v t="leo.20210314162536.1"><vh>slide2</vh></v>
-<v t="leo.20200818170535.1"><vh>slide 3</vh></v>
-<v t="leo.20200818170636.1"><vh>slide4</vh>
-<v t="leo.20200818170909.1"><vh>slide 4-1</vh></v>
-<v t="leo.20200818170953.1"><vh>slide 4-2</vh></v>
-<v t="leo.20200818171010.1"><vh>slide 4-3</vh></v>
+<v t="leo.20210314162536.1"><vh>Translation inspiration</vh></v>
+<v t="leo.20200818170535.1"><vh>slide 2</vh></v>
+<v t="leo.20200818170636.1"><vh>slide3</vh>
+<v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
+<v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
+<v t="leo.20200818171010.1"><vh>slide 3-3</vh></v>
 </v>
-<v t="leo.20200818170725.1"><vh>slide 5</vh></v>
+<v t="leo.20200818170725.1"><vh>slide 4</vh></v>
 <v t="leo.20200818171138.1"><vh>slide 5 </vh></v>
 <v t="leo.20200818171215.1"><vh>slide 6</vh></v>
 <v t="leo.20200818171244.1"><vh>slide 7 </vh></v>
@@ -657,11 +657,7 @@ console.log( '"customevent" has fired' );
  
 &lt;p&gt;&lt;img src="" alt="" width="500" height="250"&gt;&lt;/p&gt;
 
-
-
-
-
-
-&lt;section&gt;</t>
+&lt;section&gt;
+@others</t>
 </tnodes>
 </leo_file>
