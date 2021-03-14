@@ -658,6 +658,6 @@ console.log( '"customevent" has fired' );
 &lt;p&gt;&lt;img src="" alt="" width="500" height="250"&gt;&lt;/p&gt;
 
 &lt;section&gt;
-@others</t>
+</t>
 </tnodes>
 </leo_file>
