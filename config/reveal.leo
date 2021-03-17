@@ -42,7 +42,8 @@
 <v t="leo.20210318013807.1"><vh>slide 4-3</vh></v>
 <v t="leo.20210318015127.1"><vh>slide 4-4</vh></v>
 <v t="leo.20210318014638.1"><vh>slide 4-5</vh></v>
-<v t="leo.20210318015623.1"><vh>slide 4-6</vh></v>
+<v t="leo.20210318020325.1"><vh>slide 4-6</vh></v>
+<v t="leo.20210318015623.1"><vh>slide 4-7</vh></v>
 </v>
 <v t="leo.20200818171138.1"><vh>slide 5 </vh></v>
 <v t="leo.20200818171215.1"><vh>slide 6</vh></v>
@@ -781,6 +782,12 @@ console.log( '"customevent" has fired' );
   &lt;/section&gt;</t>
 <t tx="leo.20210318015623.1">&lt;section&gt;
  &lt;h2&gt;End&lt;/h2&gt;
+ &lt;/section&gt;</t>
+<t tx="leo.20210318020325.1">&lt;section&gt;
+ &lt;h2&gt;Pdf&lt;/h2&gt;
+ 
+ 
+ &lt;p&gt;&lt;iframe height="620" src="https://drive.google.com/file/d/1xrzDEjwj4gkTvbdv1MYl_QPqu6nql-aD/preview" width="550"&gt;&lt;/iframe&gt;&lt;/p&gt;
  &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
