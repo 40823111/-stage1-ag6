@@ -222,13 +222,8 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200818170535.1">   &lt;section&gt;
     &lt;h2&gt;wee2&lt;/h2&gt;
-    &lt;p&gt;
-       分工 程式 40823139
-     &lt;p&gt;機構 40823111&lt;/p&gt;
-     
-                
-    &lt;/p&gt;
-&lt;/section&gt;
+         
+   &lt;/section&gt;
 
 </t>
 <t tx="leo.20200818170636.1">&lt;!-- Example of nested vertical slides --&gt;
