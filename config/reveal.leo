@@ -21,6 +21,7 @@
 <v t="leo.20200818170328.1"><vh>slide 1</vh></v>
 <v t="leo.20210314162536.1"><vh>Translation inspiration</vh></v>
 <v t="leo.20200818170535.1"><vh>slide 2</vh>
+<v t="leo.20210318010118.1"><vh>slide 2-0</vh></v>
 <v t="leo.20210317234300.1"><vh>slide 2-1</vh></v>
 <v t="leo.20210317234351.1"><vh>slide 2-2</vh></v>
 <v t="leo.20210317235720.1"><vh>slide 2-3</vh></v>
@@ -225,7 +226,6 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20200818170535.1">   &lt;section&gt;
-    &lt;h2&gt;week2&lt;/h2&gt;
 @others
    &lt;/section&gt;
 
@@ -732,5 +732,8 @@ console.log( '"customevent" has fired' );
 
 &lt;/section&gt;
 </t>
+<t tx="leo.20210318010118.1">   &lt;section&gt;
+    &lt;h2&gt;week2&lt;/h2&gt;
+    &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
