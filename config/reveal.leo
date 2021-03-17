@@ -21,18 +21,18 @@
 <v t="leo.20200818170328.1"><vh>slide 1</vh></v>
 <v t="leo.20210314162536.1"><vh>Translation inspiration</vh></v>
 <v t="leo.20200818170535.1"><vh>slide 2</vh>
-<v t="leo.20210317234300.1"><vh>分工</vh></v>
-<v t="leo.20210317234351.1"><vh>構想</vh></v>
-<v t="leo.20210317235720.1"><vh>程式</vh></v>
-<v t="leo.20210318000536.1"><vh>newHeadline</vh></v>
-<v t="leo.20210318002648.1"><vh>newHeadline</vh></v>
-<v t="leo.20210318001716.1"><vh>newHeadline</vh></v>
+<v t="leo.20210317234300.1"><vh>slide 2-1</vh></v>
+<v t="leo.20210317234351.1"><vh>slide 2-2</vh></v>
+<v t="leo.20210317235720.1"><vh>slide 2-3</vh></v>
+<v t="leo.20210318000536.1"><vh>slide 2-4</vh></v>
+<v t="leo.20210318002648.1"><vh>slide 2-5</vh></v>
+<v t="leo.20210318001716.1"><vh>slide 2-6</vh></v>
 </v>
 <v t="leo.20200818170636.1"><vh>slide3</vh>
 <v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
 <v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
-<v t="leo.20210317172843.1"><vh>機構</vh></v>
-<v t="leo.20200818171010.1"><vh>slide 3-3</vh></v>
+<v t="leo.20210317172843.1"><vh>slide 3-3</vh></v>
+<v t="leo.20200818171010.1"><vh>slide 3-4</vh></v>
 </v>
 <v t="leo.20200818170725.1"><vh>slide 4</vh></v>
 <v t="leo.20200818171138.1"><vh>slide 5 </vh></v>
@@ -246,7 +246,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200818170909.1">&lt;section&gt;
     &lt;h2&gt;week3&lt;/h2&gt;
-    &lt;p&gt;設計機構  &lt;/p&gt;
+   
     &lt;br&gt;
     &lt;a href="#" class="navigate-down"&gt;
         &lt;img class="r-frame" style="background: rgba(255,255,255,0.1);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Down arrow"&gt;
