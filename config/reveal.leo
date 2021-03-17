@@ -709,7 +709,7 @@ console.log( '"customevent" has fired' );
 &lt;p&gt;3.相關script撰寫&lt;/p&gt;
 
 
-&lt;p&gt;&lt;img src="ttps://github.com/40823111/stage1-ag6/blob/main/images/1615997610493.jpg?raw=true "" alt="" width="500" height="250"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://github.com/40823111/stage1-ag6/blob/main/images/1615997610493.jpg?raw=true "" alt="" width="500" height="250"&gt;&lt;/p&gt;
 
 
 &lt;/section&gt;</t>
