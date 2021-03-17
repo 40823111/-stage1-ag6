@@ -42,6 +42,7 @@
 <v t="leo.20210318013807.1"><vh>slide 4-3</vh></v>
 <v t="leo.20210318015127.1"><vh>slide 4-4</vh></v>
 <v t="leo.20210318014638.1"><vh>slide 4-5</vh></v>
+<v t="leo.20210318015623.1"><vh>slide 4-6</vh></v>
 </v>
 <v t="leo.20200818171138.1"><vh>slide 5 </vh></v>
 <v t="leo.20200818171215.1"><vh>slide 6</vh></v>
@@ -715,14 +716,14 @@ console.log( '"customevent" has fired' );
 &lt;section&gt;
 &lt;h2&gt;套環機構&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src="https://github.com/40823111/stage1-ag6/blob/main/images/Inventor_KbZb4t18fg.png?raw=true "" alt="" width="500" height="250"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://github.com/40823111/stage1-ag6/blob/main/images/Inventor_KbZb4t18fg.png?raw=true "" alt="" width="750" height="500"&gt;&lt;/p&gt;
 
 &lt;/section&gt;</t>
 <t tx="leo.20210318000536.1">
 &lt;section&gt;
 
 
-&lt;p&gt;&lt;img src="https://github.com/40823111/stage1-ag6/blob/main/images/ZfdR5m9I57.gif?raw=true "" alt="" width="500" height="250"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://github.com/40823111/stage1-ag6/blob/main/images/ZfdR5m9I57.gif?raw=true "" alt="" width="750" height="500"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210318001716.1">
 
@@ -778,5 +779,8 @@ console.log( '"customevent" has fired' );
  
  
   &lt;/section&gt;</t>
+<t tx="leo.20210318015623.1">&lt;section&gt;
+ &lt;h2&gt;End&lt;/h2&gt;
+ &lt;section&gt;</t>
 </tnodes>
 </leo_file>
