@@ -701,10 +701,13 @@ console.log( '"customevent" has fired' );
 <t tx="leo.20210318000536.1">
 &lt;section&gt;
 
+&lt;h2&gt;IK&lt;/h2&gt;
+&lt;p&gt;1.path與dummy之運用&lt;/p&gt;
+&lt;p&gt;2.Calculation Modules相關設定&lt;/p&gt;
+&lt;p&gt;3.相關script撰寫&lt;/p&gt;
 
 
-
-&lt;p&gt;&lt;img src="" alt="https://github.com/40823111/stage1-ag6/blob/main/images/15040630097234.jpg?raw=true" width="500" height="250"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="" alt="https://github.com/40823111/stage1-ag6/blob/main/images/v2-7d97d56d3d83673e3b367f264ced0955_b.jpg?raw=true" width="500" height="250"&gt;&lt;/p&gt;
 
 &lt;/section&gt;</t>
 </tnodes>
