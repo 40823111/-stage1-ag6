@@ -225,8 +225,8 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20200818170535.1">   &lt;section&gt;
-    &lt;h2&gt;wee2&lt;/h2&gt;
-         
+    &lt;h2&gt;week2&lt;/h2&gt;
+@others
    &lt;/section&gt;
 
 </t>
