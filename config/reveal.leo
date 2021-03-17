@@ -25,6 +25,7 @@
 <v t="leo.20210317234351.1"><vh>構想</vh></v>
 <v t="leo.20210317235720.1"><vh>程式</vh></v>
 <v t="leo.20210318000536.1"><vh>newHeadline</vh></v>
+<v t="leo.20210318001716.1"><vh>newHeadline</vh></v>
 </v>
 <v t="leo.20200818170636.1"><vh>slide3</vh>
 <v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
@@ -695,7 +696,7 @@ console.log( '"customevent" has fired' );
 
 
 
-&lt;p&gt;&lt;img src="" alt="https://github.com/40823111/stage1-ag6/blob/main/images/v2-4565a8e0e03ac0a8e224680d7528caa6.jpg?raw=true" width="500" height="250"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="" alt="https://github.com/40823111/stage1-ag6/blob/main/images/1615997631039.jpg?raw=true" width="500" height="250"&gt;&lt;/p&gt;
 
 &lt;/section&gt;</t>
 <t tx="leo.20210318000536.1">
@@ -707,7 +708,17 @@ console.log( '"customevent" has fired' );
 &lt;p&gt;3.相關script撰寫&lt;/p&gt;
 
 
-&lt;p&gt;&lt;img src="" alt="https://github.com/40823111/stage1-ag6/blob/main/images/v2-7d97d56d3d83673e3b367f264ced0955_b.jpg?raw=true" width="500" height="250"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="" alt="https://github.com/40823111/stage1-ag6/blob/main/images/1615997610493.jpg?raw=true" width="500" height="250"&gt;&lt;/p&gt;
+
+&lt;/section&gt;</t>
+<t tx="leo.20210318001716.1">&lt;section&gt;
+
+
+&lt;h2&gt;本州問題&lt;/h2&gt;
+&lt;p&gt;1.YouBot的夾爪並不適合夾取套環
+&lt;p&gt;2.YouBot程式編寫
+&lt;p&gt;3.機構干涉與夾取時的配合
+
 
 &lt;/section&gt;</t>
 </tnodes>
