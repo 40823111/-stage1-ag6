@@ -695,9 +695,9 @@ console.log( '"customevent" has fired' );
 &lt;p&gt;2.程式編輯&lt;/p&gt;
 &lt;p&gt;3.機器人學之了解&lt;/p&gt;
 
+&lt;p&gt;&lt;img src="https://github.com/40823111/stage1-ag6/blob/main/images/1615997631039.jpg?raw=true "" alt="" width="500" height="250"&gt;&lt;/p&gt;
 
 
-&lt;p&gt;&lt;img src="" alt="https://github.com/40823111/stage1-ag6/blob/main/images/1615997631039.jpg?raw=true" width="500" height="250"&gt;&lt;/p&gt;
 
 &lt;/section&gt;</t>
 <t tx="leo.20210318000536.1">
@@ -709,7 +709,8 @@ console.log( '"customevent" has fired' );
 &lt;p&gt;3.相關script撰寫&lt;/p&gt;
 
 
-&lt;p&gt;&lt;img src="" alt="https://github.com/40823111/stage1-ag6/blob/main/images/1615997610493.jpg?raw=true" width="500" height="250"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="ttps://github.com/40823111/stage1-ag6/blob/main/images/1615997610493.jpg?raw=true "" alt="" width="500" height="250"&gt;&lt;/p&gt;
+
 
 &lt;/section&gt;</t>
 <t tx="leo.20210318001716.1">&lt;section&gt;
@@ -719,13 +720,16 @@ console.log( '"customevent" has fired' );
 &lt;p&gt;2.YouBot程式編寫
 &lt;p&gt;3.機構干涉與夾取時的配合
 
-&lt;p&gt;&lt;img src="" alt="https://github.com/40823111/stage1-ag6/blob/main/images/b.gif?raw=true" width="500" height="250"&gt;&lt;/p&gt;
+
+
+&lt;p&gt;&lt;img src="https://github.com/40823111/stage1-ag6/blob/main/images/b.gif?raw=true "" alt="" width="500" height="250"&gt;&lt;/p&gt;
+
+
 
 &lt;/section&gt;</t>
 <t tx="leo.20210318002648.1">&lt;section&gt;
+&lt;p&gt;&lt;img src="https://github.com/40823111/stage1-ag6/blob/main/images/b.gif?raw=true "" alt="" width="500" height="250"&gt;&lt;/p&gt;
 
-
-&lt;p&gt;&lt;img src="" alt="https://github.com/40823111/stage1-ag6/blob/main/images/b.gif?raw=true" width="500" height="250"&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
 </tnodes>
