@@ -20,10 +20,14 @@
 <v t="leo.20200818170222.1"><vh>slides div</vh>
 <v t="leo.20200818170328.1"><vh>slide 1</vh></v>
 <v t="leo.20210314162536.1"><vh>Translation inspiration</vh></v>
-<v t="leo.20200818170535.1"><vh>slide 2</vh></v>
+<v t="leo.20200818170535.1"><vh>slide 2</vh>
+<v t="leo.20210317234300.1"><vh>分工</vh></v>
+<v t="leo.20210317234351.1"><vh>構想</vh></v>
+</v>
 <v t="leo.20200818170636.1"><vh>slide3</vh>
 <v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
 <v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
+<v t="leo.20210317172843.1"><vh>機構</vh></v>
 <v t="leo.20200818171010.1"><vh>slide 3-3</vh></v>
 </v>
 <v t="leo.20200818170725.1"><vh>slide 4</vh></v>
@@ -209,7 +213,7 @@ vertical: body pane on the botton</t>
     @others
 &lt;/div&gt;</t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
-    &lt;h1&gt;Stage-1 ag6  &lt;/h1&gt;
+    &lt;h1&gt;Stage-1 ag6 &lt;/h1&gt;
     &lt;p&gt;
         &lt;small&gt;member &lt;a href="https://40823111.github.io/cd2021/content/index.html"&gt;40823111&lt;/a&gt; and &lt;a href="https://40823139.github.io/cd2021/content/index.html"&gt;40823139&lt;/a&gt;&lt;/small&gt;
     &lt;/p&gt;
@@ -217,10 +221,11 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20200818170535.1">   &lt;section&gt;
-    &lt;h2&gt;week1&lt;/h2&gt;
+    &lt;h2&gt;wee2&lt;/h2&gt;
     &lt;p&gt;
        分工 程式 40823139
-                &lt;p&gt;機構 40823111&lt;/p&gt;
+     &lt;p&gt;機構 40823111&lt;/p&gt;
+     
                 
     &lt;/p&gt;
 &lt;/section&gt;
@@ -241,7 +246,7 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20200818170909.1">&lt;section&gt;
-    &lt;h2&gt;week2&lt;/h2&gt;
+    &lt;h2&gt;week3&lt;/h2&gt;
     &lt;p&gt;設計機構  &lt;/p&gt;
     &lt;br&gt;
     &lt;a href="#" class="navigate-down"&gt;
@@ -658,9 +663,29 @@ console.log( '"customevent" has fired' );
 夜市套圈圈 及 運輸機購 想做一個可以持續循環套圈圈的機器
  &lt;/p&gt;
  
-&lt;p&gt;&lt;img src="" alt="" width="500" height="250"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="" alt="https://github.com/40823111/stage1-ag6/blob/main/images/15040630097234.jpg?raw=true" width="500" height="250"&gt;&lt;/p&gt;
 
 &lt;/section&gt;
 </t>
+<t tx="leo.20210317172843.1"></t>
+<t tx="leo.20210317234300.1">&lt;section&gt;
+&lt;p&gt;
+       分工 程式 40823139
+     &lt;p&gt;機構 40823111&lt;/p&gt;
+     &lt;/section&gt;
+     </t>
+<t tx="leo.20210317234351.1">&lt;section&gt;
+構想提出:
+
+&lt;p&gt;1.方向:夜市遊戲&lt;/p&gt;
+&lt;p&gt;2.模擬:coppeliasim&lt;/p&gt;
+&lt;p&gt;3.特點:可控制丟出&lt;p&gt;
+&lt;p&gt;討論結果:&lt;/p&gt;
+
+&lt;p&gt;夜市套圈圈&lt;/p&gt;
+&lt;p&gt;藉由機械手臂達成&lt;/p&gt;
+&lt;p&gt;套環由運送機構送達&lt;/p&gt;
+
+&lt;/section&gt;</t>
 </tnodes>
 </leo_file>
