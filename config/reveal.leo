@@ -25,6 +25,7 @@
 <v t="leo.20210317234351.1"><vh>構想</vh></v>
 <v t="leo.20210317235720.1"><vh>程式</vh></v>
 <v t="leo.20210318000536.1"><vh>newHeadline</vh></v>
+<v t="leo.20210318002648.1"><vh>newHeadline</vh></v>
 <v t="leo.20210318001716.1"><vh>newHeadline</vh></v>
 </v>
 <v t="leo.20200818170636.1"><vh>slide3</vh>
@@ -713,13 +714,19 @@ console.log( '"customevent" has fired' );
 &lt;/section&gt;</t>
 <t tx="leo.20210318001716.1">&lt;section&gt;
 
-
 &lt;h2&gt;本州問題&lt;/h2&gt;
 &lt;p&gt;1.YouBot的夾爪並不適合夾取套環
 &lt;p&gt;2.YouBot程式編寫
 &lt;p&gt;3.機構干涉與夾取時的配合
 
+&lt;p&gt;&lt;img src="" alt="https://github.com/40823111/stage1-ag6/blob/main/images/b.gif?raw=true" width="500" height="250"&gt;&lt;/p&gt;
 
 &lt;/section&gt;</t>
+<t tx="leo.20210318002648.1">&lt;section&gt;
+
+
+&lt;p&gt;&lt;img src="" alt="https://github.com/40823111/stage1-ag6/blob/main/images/b.gif?raw=true" width="500" height="250"&gt;&lt;/p&gt;
+&lt;/section&gt;
+</t>
 </tnodes>
 </leo_file>
