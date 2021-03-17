@@ -26,8 +26,8 @@
 <v t="leo.20210317234351.1"><vh>slide 2-2</vh></v>
 <v t="leo.20210317235720.1"><vh>slide 2-3</vh></v>
 <v t="leo.20210318000536.1"><vh>slide 2-4</vh></v>
-<v t="leo.20210318002648.1"><vh>slide 2-5</vh></v>
 <v t="leo.20210318001716.1"><vh>slide 2-6</vh></v>
+<v t="leo.20210318002648.1"><vh>slide 2-5</vh></v>
 </v>
 <v t="leo.20200818170636.1"><vh>slide3</vh>
 <v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
@@ -36,7 +36,13 @@
 <v t="leo.20210318011851.1"><vh>slide3-4</vh></v>
 <v t="leo.20200818171010.1"><vh>slide 3-5</vh></v>
 </v>
-<v t="leo.20200818170725.1"><vh>slide 4</vh></v>
+<v t="leo.20200818170725.1"><vh>slide 4</vh>
+<v t="leo.20210318013610.1"><vh>slide 4-1</vh></v>
+<v t="leo.20210318013757.1"><vh>slide 4-2</vh></v>
+<v t="leo.20210318013807.1"><vh>slide 4-3</vh></v>
+<v t="leo.20210318015127.1"><vh>slide 4-4</vh></v>
+<v t="leo.20210318014638.1"><vh>slide 4-5</vh></v>
+</v>
 <v t="leo.20200818171138.1"><vh>slide 5 </vh></v>
 <v t="leo.20200818171215.1"><vh>slide 6</vh></v>
 <v t="leo.20200818171244.1"><vh>slide 7 </vh></v>
@@ -238,12 +244,11 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20200818170725.1">&lt;section&gt;
-    &lt;h2&gt;week4&lt;/h2&gt;
-    &lt;p&gt;
-        Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at &lt;a href="https://slides.com" target="_blank"&gt;https://slides.com&lt;/a&gt;.
-    &lt;/p&gt;
-&lt;/section&gt;
 
+@others
+   &lt;/section&gt;
+   
+    
 </t>
 <t tx="leo.20200818170909.1">&lt;section&gt;
     &lt;h2&gt;week3&lt;/h2&gt;
@@ -737,5 +742,41 @@ console.log( '"customevent" has fired' );
 
 &lt;/section&gt;
 </t>
+<t tx="leo.20210318013610.1"> &lt;section&gt;
+ &lt;h2&gt;week4&lt;/h2&gt;
+ 
+   &lt;/section&gt;</t>
+<t tx="leo.20210318013757.1"> &lt;section&gt;
+ &lt;h2&gt;爆炸圖&lt;/h2&gt;
+ 
+ 
+ &lt;p&gt;&lt;img src="https://github.com/40823111/stage1-ag6/blob/main/images/Inventor_7MZQCBKZ7G.png?raw=true"" alt="" width="500" height="250"&gt;&lt;/p&gt;
+ 
+ 
+  &lt;/section&gt;</t>
+<t tx="leo.20210318013807.1">&lt;section&gt;
+ &lt;h2&gt;工程圖&lt;/h2&gt;
+ 
+ 
+ 
+ 
+ &lt;p&gt;&lt;img src="https://github.com/40823111/stage1-ag6/blob/main/images/Inventor_9Oy4NiufCt.png?raw=true"" alt="" width="500" height="250"&gt;&lt;/p&gt;
+ 
+  &lt;/section&gt;</t>
+<t tx="leo.20210318014638.1">&lt;section&gt;
+ &lt;h2&gt;完成品&lt;/h2&gt;
+ 
+ &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/md3fNab1UXo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+ 
+ 
+ 
+  &lt;/section&gt;</t>
+<t tx="leo.20210318015127.1">&lt;section&gt;
+ &lt;h2&gt;模型&lt;/h2&gt;
+ 
+ &lt;p&gt;&lt;img src="https://github.com/40823111/stage1-ag6/blob/main/images/1615972163364.jpg?raw=true"" alt="" width="500" height="250"&gt;&lt;/p&gt;
+ 
+ 
+  &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
