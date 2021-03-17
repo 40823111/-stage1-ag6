@@ -751,7 +751,7 @@ console.log( '"customevent" has fired' );
  &lt;h2&gt;爆炸圖&lt;/h2&gt;
  
  
- &lt;p&gt;&lt;img src="https://github.com/40823111/stage1-ag6/blob/main/images/Inventor_7MZQCBKZ7G.png?raw=true"" alt="" width="500" height="250"&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;img src="https://github.com/40823111/stage1-ag6/blob/main/images/Inventor_7MZQCBKZ7G.png?raw=true"" alt="" width="750" height="500"&gt;&lt;/p&gt;
  
  
   &lt;/section&gt;</t>
@@ -761,7 +761,7 @@ console.log( '"customevent" has fired' );
  
  
  
- &lt;p&gt;&lt;img src="https://github.com/40823111/stage1-ag6/blob/main/images/Inventor_9Oy4NiufCt.png?raw=true"" alt="" width="500" height="250"&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;img src="https://github.com/40823111/stage1-ag6/blob/main/images/Inventor_9Oy4NiufCt.png?raw=true"" alt="" width="750" height="500"&gt;&lt;/p&gt;
  
   &lt;/section&gt;</t>
 <t tx="leo.20210318014638.1">&lt;section&gt;
@@ -775,12 +775,12 @@ console.log( '"customevent" has fired' );
 <t tx="leo.20210318015127.1">&lt;section&gt;
  &lt;h2&gt;模型&lt;/h2&gt;
  
- &lt;p&gt;&lt;img src="https://github.com/40823111/stage1-ag6/blob/main/images/1615972163364.jpg?raw=true"" alt="" width="500" height="250"&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;img src="https://github.com/40823111/stage1-ag6/blob/main/images/1615972163364.jpg?raw=true"" alt="" width="750" height="500"&gt;&lt;/p&gt;
  
  
   &lt;/section&gt;</t>
 <t tx="leo.20210318015623.1">&lt;section&gt;
  &lt;h2&gt;End&lt;/h2&gt;
- &lt;section&gt;</t>
+ &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
