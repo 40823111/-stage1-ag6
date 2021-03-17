@@ -216,9 +216,8 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818170535.1">
+<t tx="leo.20200818170535.1">   &lt;section&gt;
     &lt;h2&gt;week1&lt;/h2&gt;
-    &lt;section&gt;
     &lt;p&gt;
        分工 程式 40823139
                 機構 40823111
