@@ -23,6 +23,8 @@
 <v t="leo.20200818170535.1"><vh>slide 2</vh>
 <v t="leo.20210317234300.1"><vh>分工</vh></v>
 <v t="leo.20210317234351.1"><vh>構想</vh></v>
+<v t="leo.20210317235720.1"><vh>程式</vh></v>
+<v t="leo.20210318000536.1"><vh>newHeadline</vh></v>
 </v>
 <v t="leo.20200818170636.1"><vh>slide3</vh>
 <v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
@@ -251,11 +253,9 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200818170953.1">&lt;section&gt;
     &lt;h2&gt;機構設計&lt;/h2&gt;
-    &lt;p&gt;構想提出:&lt;p&gt;
+    &lt;p&gt;構想提出:&lt;/p&gt;
 
-方向:夜市遊戲&lt;/p&gt;
-&lt;p&gt;模擬:coppeliasim&lt;/p&gt;
-特點:可控制丟出&lt;/p&gt;
+
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818171010.1">&lt;section&gt;
@@ -664,13 +664,15 @@ console.log( '"customevent" has fired' );
 </t>
 <t tx="leo.20210317172843.1"></t>
 <t tx="leo.20210317234300.1">&lt;section&gt;
+
+&lt;h2&gt;分工&lt;/h2&gt;
 &lt;p&gt;
-       分工 程式 40823139
+       程式 40823139
      &lt;p&gt;機構 40823111&lt;/p&gt;
      &lt;/section&gt;
      </t>
 <t tx="leo.20210317234351.1">&lt;section&gt;
-構想提出:
+&lt;h2&gt;構想&lt;/h2&gt;
 
 &lt;p&gt;1.方向:夜市遊戲&lt;/p&gt;
 &lt;p&gt;2.模擬:coppeliasim&lt;/p&gt;
@@ -680,6 +682,29 @@ console.log( '"customevent" has fired' );
 &lt;p&gt;夜市套圈圈&lt;/p&gt;
 &lt;p&gt;藉由機械手臂達成&lt;/p&gt;
 &lt;p&gt;套環由運送機構送達&lt;/p&gt;
+
+&lt;/section&gt;</t>
+<t tx="leo.20210317235720.1">
+&lt;section&gt;
+
+&lt;h2&gt;Youbot&lt;/h2&gt;
+
+&lt;p&gt;1.關節與運動模式設定&lt;/p&gt;
+&lt;p&gt;2.程式編輯&lt;/p&gt;
+&lt;p&gt;3.機器人學之了解&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;img src="" alt="https://github.com/40823111/stage1-ag6/blob/main/images/v2-4565a8e0e03ac0a8e224680d7528caa6.jpg?raw=true" width="500" height="250"&gt;&lt;/p&gt;
+
+&lt;/section&gt;</t>
+<t tx="leo.20210318000536.1">
+&lt;section&gt;
+
+
+
+
+&lt;p&gt;&lt;img src="" alt="https://github.com/40823111/stage1-ag6/blob/main/images/15040630097234.jpg?raw=true" width="500" height="250"&gt;&lt;/p&gt;
 
 &lt;/section&gt;</t>
 </tnodes>
