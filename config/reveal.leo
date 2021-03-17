@@ -33,7 +33,8 @@
 <v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
 <v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
 <v t="leo.20210317172843.1"><vh>slide 3-3</vh></v>
-<v t="leo.20200818171010.1"><vh>slide 3-4</vh></v>
+<v t="leo.20210318011851.1"><vh>slide3-4</vh></v>
+<v t="leo.20200818171010.1"><vh>slide 3-5</vh></v>
 </v>
 <v t="leo.20200818170725.1"><vh>slide 4</vh></v>
 <v t="leo.20200818171138.1"><vh>slide 5 </vh></v>
@@ -247,27 +248,33 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818170909.1">&lt;section&gt;
     &lt;h2&gt;week3&lt;/h2&gt;
    
-    &lt;br&gt;
-    &lt;a href="#" class="navigate-down"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Down arrow"&gt;
-    &lt;/a&gt;
+
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818170953.1">&lt;section&gt;
-    &lt;h2&gt;機構設計&lt;/h2&gt;
-    &lt;p&gt;構想提出:&lt;/p&gt;
 
+
+&lt;h2&gt;Youbot&lt;/h2&gt;
+
+&lt;p&gt;1.關節與運動模式設定&lt;/p&gt;
+&lt;p&gt;2.程式編輯&lt;/p&gt;
+&lt;p&gt;3.機器人學之了解&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="https://github.com/40823111/stage1-ag6/blob/main/images/1615997631039.jpg?raw=true "" alt="" width="500" height="250"&gt;&lt;/p&gt;
 
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818171010.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 2&lt;/h2&gt;
-    &lt;p&gt;That's it, time to go back up.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#/2"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1); transform: rotate(180deg);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Up arrow"&gt;
-    &lt;/a&gt;
-&lt;/section&gt;</t>
+&lt;h2&gt;本週問題&lt;/h2&gt;
+&lt;p&gt;1.YouBot的夾爪並不適合夾取套環&lt;/p&gt;
+&lt;p&gt;2.YouBot程式編寫&lt;/p&gt;
+&lt;p&gt;3.機構干涉與夾取時的配合&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;img src="https://github.com/40823111/stage1-ag6/blob/main/images/1615998157413.jpg?raw=true "" alt="" width="500" height="250"&gt;&lt;/p&gt;
+&lt;/section&gt;
+</t>
 <t tx="leo.20200818171138.1">&lt;section data-auto-animate&gt;
     &lt;h2 data-id="code-title"&gt;Pretty Code&lt;/h2&gt;
     &lt;pre data-id="code-animation"&gt;&lt;code class="hljs" data-trim data-line-numbers&gt;
@@ -666,7 +673,18 @@ console.log( '"customevent" has fired' );
 
 &lt;/section&gt;
 </t>
-<t tx="leo.20210317172843.1"></t>
+<t tx="leo.20210317172843.1">&lt;section&gt;
+
+&lt;h2&gt;IK&lt;/h2&gt;
+&lt;p&gt;1.path與dummy之運用&lt;/p&gt;
+&lt;p&gt;2.Calculation Modules相關設定&lt;/p&gt;
+&lt;p&gt;3.相關script撰寫&lt;/p&gt;
+
+
+&lt;p&gt;&lt;img src="https://github.com/40823111/stage1-ag6/blob/main/images/1615997610493.jpg?raw=true "" alt="" width="500" height="250"&gt;&lt;/p&gt;
+
+
+&lt;/section&gt;</t>
 <t tx="leo.20210317234300.1">&lt;section&gt;
 
 &lt;h2&gt;分工&lt;/h2&gt;
@@ -683,59 +701,41 @@ console.log( '"customevent" has fired' );
 &lt;p&gt;3.特點:可控制丟出&lt;p&gt;
 &lt;p&gt;討論結果:&lt;/p&gt;
 
-&lt;p&gt;夜市套圈圈&lt;/p&gt;
-&lt;p&gt;藉由機械手臂達成&lt;/p&gt;
-&lt;p&gt;套環由運送機構送達&lt;/p&gt;
+&lt;p&gt;1.夜市套圈圈&lt;/p&gt;
+&lt;p&gt;2.藉由機械手臂達成&lt;/p&gt;
+&lt;p&gt;3.套環由運送機構送達&lt;/p&gt;
 
 &lt;/section&gt;</t>
 <t tx="leo.20210317235720.1">
 &lt;section&gt;
+&lt;h2&gt;套環機構&lt;/h2&gt;
 
-&lt;h2&gt;Youbot&lt;/h2&gt;
-
-&lt;p&gt;1.關節與運動模式設定&lt;/p&gt;
-&lt;p&gt;2.程式編輯&lt;/p&gt;
-&lt;p&gt;3.機器人學之了解&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="https://github.com/40823111/stage1-ag6/blob/main/images/1615997631039.jpg?raw=true "" alt="" width="500" height="250"&gt;&lt;/p&gt;
-
-
+&lt;p&gt;&lt;img src="https://github.com/40823111/stage1-ag6/blob/main/images/Inventor_KbZb4t18fg.png?raw=true "" alt="" width="500" height="250"&gt;&lt;/p&gt;
 
 &lt;/section&gt;</t>
 <t tx="leo.20210318000536.1">
 &lt;section&gt;
 
-&lt;h2&gt;IK&lt;/h2&gt;
-&lt;p&gt;1.path與dummy之運用&lt;/p&gt;
-&lt;p&gt;2.Calculation Modules相關設定&lt;/p&gt;
-&lt;p&gt;3.相關script撰寫&lt;/p&gt;
 
-
-&lt;p&gt;&lt;img src="https://github.com/40823111/stage1-ag6/blob/main/images/1615997610493.jpg?raw=true "" alt="" width="500" height="250"&gt;&lt;/p&gt;
-
-
+&lt;p&gt;&lt;img src="https://github.com/40823111/stage1-ag6/blob/main/images/ZfdR5m9I57.gif?raw=true "" alt="" width="500" height="250"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20210318001716.1">&lt;section&gt;
+<t tx="leo.20210318001716.1">
 
+&lt;section&gt;
 &lt;h2&gt;本週問題&lt;/h2&gt;
-&lt;p&gt;1.YouBot的夾爪並不適合夾取套環
-&lt;p&gt;2.YouBot程式編寫
-&lt;p&gt;3.機構干涉與夾取時的配合
-
-
-
-&lt;p&gt;&lt;img src="https://github.com/40823111/stage1-ag6/blob/main/images/1615998157413.jpg?raw=true "" alt="" width="500" height="250"&gt;&lt;/p&gt;
-
-
+&lt;p&gt;1.機構創建&lt;/p&gt;
+&lt;p&gt;2.干涉調配&lt;/p&gt;
+&lt;p&gt;3.模擬碰撞調配&lt;/p&gt;
 
 &lt;/section&gt;</t>
-<t tx="leo.20210318002648.1">&lt;section&gt;
+<t tx="leo.20210318002648.1"></t>
+<t tx="leo.20210318010118.1">   &lt;section&gt;
+    &lt;h2&gt;week2&lt;/h2&gt;
+    &lt;/section&gt;</t>
+<t tx="leo.20210318011851.1">&lt;section&gt;
 &lt;p&gt;&lt;img src="https://github.com/40823111/stage1-ag6/blob/main/images/b.gif?raw=true "" alt="" width="500" height="250"&gt;&lt;/p&gt;
 
 &lt;/section&gt;
 </t>
-<t tx="leo.20210318010118.1">   &lt;section&gt;
-    &lt;h2&gt;week2&lt;/h2&gt;
-    &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
