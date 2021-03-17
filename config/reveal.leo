@@ -660,7 +660,9 @@ console.log( '"customevent" has fired' );
 夜市套圈圈 及 運輸機購 想做一個可以持續循環套圈圈的機器
  &lt;/p&gt;
  
-&lt;p&gt;&lt;img src="" alt="https://github.com/40823111/stage1-ag6/blob/main/images/15040630097234.jpg?raw=true" width="500" height="250"&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;img src="https://github.com/40823111/stage1-ag6/blob/main/images/15040630097234.jpg?raw=true "" alt="" width="500" height="250"&gt;&lt;/p&gt;
+
+ 
 
 &lt;/section&gt;
 </t>
