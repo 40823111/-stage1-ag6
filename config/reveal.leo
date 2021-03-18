@@ -259,10 +259,7 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818170953.1">&lt;section&gt;
-
-
 &lt;h2&gt;Youbot&lt;/h2&gt;
-
 &lt;p&gt;1.關節與運動模式設定&lt;/p&gt;
 &lt;p&gt;2.程式編輯&lt;/p&gt;
 &lt;p&gt;3.機器人學之了解&lt;/p&gt;
