@@ -263,7 +263,7 @@ vertical: body pane on the botton</t>
 &lt;p&gt;1.關節與運動模式設定&lt;/p&gt;
 &lt;p&gt;2.程式編輯&lt;/p&gt;
 &lt;p&gt;3.機器人學之了解&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://github.com/40823111/stage1-ag6/blob/main/images/1615997631039.jpg?raw=true "" alt="" width="750" height="500"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://github.com/40823111/stage1-ag6/blob/main/images/1615997631039.jpg?raw=true "" alt="" width="700" height="450"&gt;&lt;/p&gt;
 
 &lt;/section&gt;
 </t>
@@ -684,7 +684,7 @@ console.log( '"customevent" has fired' );
 &lt;p&gt;3.相關script撰寫&lt;/p&gt;
 
 
-&lt;p&gt;&lt;img src="https://github.com/40823111/stage1-ag6/blob/main/images/1615997610493.jpg?raw=true "" alt="" width="750" height="500"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://github.com/40823111/stage1-ag6/blob/main/images/1615997610493.jpg?raw=true "" alt="" width="700" height="450"&gt;&lt;/p&gt;
 
 
 &lt;/section&gt;</t>
